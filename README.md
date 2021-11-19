@@ -8,6 +8,7 @@
 
 |    Pre-print Paper    |  Method  |  Conference  |  Code |
 |  :---------  | :------:  | :------: | :------: |
+|  [Learning Deep Representation with Energy-Based Self-Expressiveness for Subspace Clustering](https://arxiv.org/pdf/2110.15037.pdf) | LDRSC | Arxiv 2021 | - |
 |  [Deep Clustering and Representation Learning with Geometric Structure Preservation](https://arxiv.org/abs/2009.09590) | DCRL | Arxiv 2021 | - |
 |  [Deep Clustering with Self-supervision using Pairwise Data Similarities](https://www.techrxiv.org/articles/preprint/Deep_Clustering_with_Self-supervision_using_Pairwise_Data_Similarities/14852652)  | DCSS |  TechRxiv 2021 |  [Pytorch](https://github.com/Armanfard-Lab/DCSS/blob/main/Codes/train.py) |
 | [SPICE: Semantic Pseudo-labeling for Image Clustering](https://arxiv.org/pdf/2103.09382v1.pdf) | SPICE | Arxiv 2021 | [Pytorch](https://github.com/niuchuangnn/SPICE) |
